@@ -1,6 +1,6 @@
 # M757 BCD Encoder · Communication
 
-Ward-Beck Systems M757, 1972|5. Wiki page: [M757 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M757.html)
+Ward-Beck Systems M757, 1972|5. Wiki page: [M757 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M757-BCD-Encoder/)
 
 | Folder | What is in it | Files |
 |---|---|---|

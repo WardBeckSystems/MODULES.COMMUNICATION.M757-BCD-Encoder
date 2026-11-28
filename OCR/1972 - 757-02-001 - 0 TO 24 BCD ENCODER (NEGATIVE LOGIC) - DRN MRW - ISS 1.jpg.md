@@ -1,5 +1,5 @@
 # 1972 - 757-02-001 - 0 TO 24 BCD ENCODER (NEGATIVE LOGIC) - DRN MRW - ISS 1.jpg
-Wiki page: [M757](../../../../PAGES/M757.md)
+Wiki page: [M757](../)
 
 
 - **Year:** 1972 (title block date)
